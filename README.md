@@ -11,5 +11,5 @@ SCREENSHOTS:-
         <img width="45%" src="screenshots/user.png" ></img>
 </div>
 
-I have refered this blog to implement this project(https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d)
+
 
