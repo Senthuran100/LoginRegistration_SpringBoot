@@ -13,3 +13,4 @@ SCREENSHOTS:-
 
 
 
+I have refered this (https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysql-a5d8545d837d) and made some changes according to the requirement.
